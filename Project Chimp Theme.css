@@ -1,0 +1,51 @@
+/**
+ * @name Project-Chimp-Discord-Theme
+ * @author VRR766
+ * @version 1.0.0
+ * @description A Project Chimp Discord Theme
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/1J7y6jE.png');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/rU9dQaC.png');
+  --popout-image-blur: 2px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://i.imgur.com/mbbr5OR.png');
+  --overlay-image-blur: 4px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/5CIURZX.png');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.74;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0.1;
+  --overlay-brightness: 0.75;
+  --gradient-primary: 255,56,0;
+  --gradient-secondary: 0,255,6;
+  --link-colour: #006BF4;
+  --scrollbar-colour: rgb(255,255,255,0.5);
+  --gradient-direction: 294deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: Open Sans;
+  --window-padding: 10px;
+  --window-roundness: 15px;
+  --update-notice-1: none;
+  --columns: 2;
+  --guildgap: 1;
+  --aligndms: 0;
+}
+
+
+
